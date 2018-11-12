@@ -16,7 +16,7 @@ Snake is a classical game from the 70’s, this project is yet another snake vid
 * `git clone https://github.com/mshkliai/Nibbler.git`
 * `cd Nibbler`
 * `make install`
-* `./snake [1500-2500] [1500-2500] dynlib1.so dynlib2.so dynlib3.so`
+* `./snake [1500-2500] [1500-2500] dyn1.so dyn2.so dyn3.so`
 * `You can switch from one dynamic library to one another by
 using 1, 2 and 3, thus changing the GUI`
 
