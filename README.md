@@ -5,7 +5,7 @@ Snake is a classical game from the 70’s, this project is yet another snake vid
 <https://en.wikipedia.org/wiki/Snake_(video_game_genre)>
 
 ***
-#### It's a group project on two project, that a made of 2 major parts:
+#### It's a group project on two persons, that a made of 2 major parts:
 1. Main program (logic core)
 2. Three Dynamic-graphic libraries, that the logical core works with.
 #### I wrote a logic core and dynamic library with SFML.
